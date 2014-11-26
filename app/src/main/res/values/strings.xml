@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DatePicker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ok">تائید</string>
+    <string name="date1">تاریخ شروع</string>
+    <string name="date2">تاریخ پایان</string>
+    <string name="red_color">رنگ قرمز</string>
+    <string name="default_font">فونت پیشفرض</string>
+    <string name="dark_theme">پوسته تیره</string>
+    <string name="only_today">عدم نمایش آینده</string>
+</resources>
